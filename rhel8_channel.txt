@@ -1,0 +1,4 @@
+openstack-16.1-for-rhel-8-x86_64-rpms
+fast-datapath-for-rhel-8-x86_64-rpms
+rhceph-4-tools-for-rhel-8-x86_64-rpms
+advanced-virt-for-rhel-8-x86_64-rpms

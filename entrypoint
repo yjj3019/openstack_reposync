@@ -1,0 +1,7 @@
+#!/bin/sh
+
+### crond process start
+touch /var/log/cron.log
+chown cron.cron /var/log/cron.log
+/usr/sbin/crond -n
+

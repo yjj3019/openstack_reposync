@@ -1,0 +1,1 @@
+0 02 * * * /root/reposync/rhel8_reposync.sh
